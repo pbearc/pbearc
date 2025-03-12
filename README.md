@@ -68,7 +68,7 @@
 - YouTube Analytics - Built an ETL pipeline that fetches the hot categories on YouTube and displays them in graphs.
 
 ### Frontend
-- [Portfolio](behhanyu.github.io) - Not maintained; check this GitHub page for the most recent updates.
+- [Portfolio](https://pbearc.github.io/behhanyu/) - Not maintained; check this GitHub page for the most recent updates.
 - [Static Factory](https://github.com/pbearc/static-factory-oop) - Rogue-like game using OOP concepts.
 - [Tetris Game](https://github.com/pbearc/tetris-game-using-typescript) - Implemented with TypeScript and RxJS, leveraging Functional Reactive Programming (FRP) concepts.
 - [Country App](https://github.com/pbearc/Country-App) - Fetch country information from Wikipedia using Google API.
