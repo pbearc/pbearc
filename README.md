@@ -1,4 +1,4 @@
-# 👨‍💻 Hello! I'm Hanyu
+# 👋 Hello! I'm Hanyu
 
 ## 🧠 Profile.exe
 
