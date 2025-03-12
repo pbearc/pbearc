@@ -10,11 +10,6 @@
   "current_focus": "AI, LLM, Information Retrieval, Cloud Platforms",
 }
 ```
-## 💼 Work Experience  
-
-### [LLM Development Intern @ Experian](https://www.experian.com/)  
-### [Software Engineer Intern @ Juris Technologies](https://juristech.net/)  
-
 ## 🚀 Featured Projects  
 
 **Campus Map with AR**  
@@ -117,18 +112,7 @@
 </div>
 
 ### 🤖 AI/ML  
-<div style="display: flex; flex-wrap: wrap;">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />  
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=black" alt="scikit-learn" />  
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />  
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />  
-  <img src="https://img.shields.io/badge/SBERT.net-0088CC?style=for-the-badge&logo=semantic-web&logoColor=white" alt="SBERT.net" />  
-  <img src="https://img.shields.io/badge/Whoosh-FFA500?style=for-the-badge&logo=apache&logoColor=white" alt="Whoosh" />  
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />  
-  <img src="https://img.shields.io/badge/BitNet-0066FF?style=for-the-badge&logo=deep-learning&logoColor=white" alt="BitNet" />  
-  <img src="https://img.shields.io/badge/SpaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" alt="SpaCy" />  
-  <img src="https://img.shields.io/badge/Llama-FF3366?style=for-the-badge&logo=llama&logoColor=white" alt="Llama" />  
-</div>
+<div style="display: flex; flex-wrap: wrap;"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=black" alt="scikit-learn" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /> <img src="https://img.shields.io/badge/SBERT.net-0088CC?style=for-the-badge&logo=semantic-web&logoColor=white" alt="SBERT.net" /> <img src="https://img.shields.io/badge/Whoosh-FFA500?style=for-the-badge&logo=apache&logoColor=white" alt="Whoosh" /> <img src="https://img.shields.io/badge/Hugging%20Face-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" /> <img src="https://img.shields.io/badge/BitNet-0066FF?style=for-the-badge&logo=deep-learning&logoColor=white" alt="BitNet" /> <img src="https://img.shields.io/badge/SpaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" alt="SpaCy" /> <img src="https://img.shields.io/badge/Llama-FF3366?style=for-the-badge&logo=llama&logoColor=white" alt="Llama" /> <img src="https://img.shields.io/badge/Faiss-2C6B95?style=for-the-badge&logo=faiss&logoColor=white" alt="Faiss" /> <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch" /> </div>
 
 ### ☁️ Cloud  
 <div style="display: flex; flex-wrap: wrap;">
@@ -146,15 +130,7 @@
 </div>
 
 ### 🛠️ Tools  
-<div style="display: flex; flex-wrap: wrap;">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />  
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />  
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />  
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />  
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />  
-  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" />  
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />  
-</div>
+<div style="display: flex; flex-wrap: wrap;"> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android Studio" /> </div>
 
 ## 🏆 Awards
 
