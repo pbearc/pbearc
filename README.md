@@ -13,17 +13,7 @@
 ## 💼 Work Experience  
 
 ### [LLM Development Intern @ Experian](https://www.experian.com/)  
-- Built a **Q&A chatbot** from end to end, conducting **R&D** and implementing the entire workflow for internal use.
-- Scraped data from **Jira, Confluence, and ServiceNow** to maintain an up-to-date knowledge base.  
-- Managed and optimized the **database** for efficient retrieval of relevant data.  
-- Used **Sentence Transformers and various LLM tools** to generate top-ranked answers for users.  
-- Implemented a **clarification mechanism** that prompts users for more details before providing the final response.  
-- Participated in a **hackathon**, developing a **browser extension** that enables users to interact with the company’s platform using speech-based commands. Integrated **speech-to-text processing** and **natural language understanding (NLU)** to interpret user intent and trigger corresponding actions. 
-
 ### [Software Engineer Intern @ Juris Technologies](https://juristech.net/)  
-- Customized the loan application platform to accommodate change requests and develop new features using **PL/SQL, PHP, and PHPLens**.
-- Assisted in **User Acceptance Testing (UAT)** by creating test scripts, executing tests, and providing feedback to improve usability.
-- Helped **resolve production issues** to ensure smooth operation of the loan application platform.
 
 ## 🚀 Featured Projects  
 
@@ -164,6 +154,16 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />  
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" />  
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />  
+</div>
+
+## 🏆 Awards
+
+<div style="display: flex; flex-direction: column; gap: 10px; padding: 10px 0;">
+    <p><strong>Monash Final Year Project Award:</strong> 2nd place (Topic: Campus Map with AR) - Nov 2024</p>
+    <p><strong>IEEE Collaborative Coding Contest:</strong> Champion - Oct 2024</p>
+    <p><strong>Monash Coding League:</strong> 2nd place - April 2024</p>
+    <p><strong>Monash Coding League:</strong> Top 15 - April 2023</p>
+    <p><strong>Monash High Achiever’s Award:</strong> Oct 2022</p>
 </div>
 
 ## 📫 Connect.request()  
